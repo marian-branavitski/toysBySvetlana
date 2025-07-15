@@ -1,0 +1,180 @@
+.navbar-default {
+	background-color: #a0b996b3;
+}
+
+.nav .navbar-nav a>li.active {
+	background-color: !important #a2b39c;
+}
+
+.navbar-inverse {
+	border-radius: 0px;
+}
+
+.navbar-inverse {
+	background-color: #609356;	
+	border-color: #609356;	
+}
+
+/*.navbar-brand > img {
+    display: block;
+    margin-right: 12px !important;
+
+}*/
+
+.header a, a:hover, p {
+	text-decoration: none;
+	color: #17550eab;
+}
+
+.nav-pills>li.active>a, .nav-pills>li>a:hover, .nav-pills>li.active>a:hover {
+    color: white;
+    background-color: #2e6925;
+}
+
+.nav-pills>li>a {
+	color: white;
+}
+
+@media only screen
+and (min-device-width: 280px)
+and (max-device-width: 653px) {
+	.nav-pills>li {
+		float: none;
+		text-align: center;
+	}
+
+	.navbar-right {
+		margin-right: 0%;
+	}
+
+	.header {
+		text-align: center;
+	}
+
+	.toy-img {
+		min-width: 70%;
+	}
+
+}
+
+
+.wrapper {
+	min-height: 100%;
+}
+
+.form-control {
+	border-radius: 0px;
+}
+
+.input-lg {
+    height: 40px;
+    padding: 10px 16px;
+    font-size: 13px;
+}
+
+.btn-lg {
+	font-size: 14px;
+}
+
+.margin-8 {
+	margin-top: 8%;
+}
+
+
+.btn-success {
+	background-color: #dff0d8;
+	border-color: #dff0d8;
+	color: #598b58;
+}
+
+.success>a {
+	color: green;
+}
+
+.success>a:hover {
+	text-decoration: underline;
+}
+
+.success {
+	margin: 6px 0 0 6px;
+}
+
+.clear {
+	clear: both;
+	height: 62px;
+}
+
+a {
+	color: green;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+
+.img-rounded {
+	max-width: 100%;
+	border-radius: 0px;
+}
+
+.full-img {
+	width: 32%;
+}
+
+.toy-img {
+	width: 32%;
+	border-radius: 2px;
+	border: solid 5px #dff0d8;
+	margin-left: 13%;
+	margin-bottom: 4%;
+}
+
+.toy-img p {
+	margin: 1px 7px 10px;
+}
+
+h4 {
+	color: green;
+}
+
+.img-circle {
+	width: 15%;
+}
+
+.img-circle {
+    width: 36%;
+	margin-right: -15%;
+	margin-top: -13%;
+}
+
+.img-thumbnail {
+	max-width: 50% !important;
+}
+
+.margin-top-1 {
+	margin-top: -13%;
+}
+
+.nav .open > a, .nav .open > a:focus, .nav .open > a:hover {
+    background-color: #2e6925;
+}
+
+
+textarea {
+	width: 100% !important;
+	height: 260px !important;
+}
+
+footer {
+	background-color: #bcceb5;
+	width: 100%;
+	padding: 17px 0 18px 0;
+	margin: 17px 0 0 0;
+}
+
